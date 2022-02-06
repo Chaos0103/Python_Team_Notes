@@ -8,6 +8,11 @@
 
 - [선택 정렬(Selection Sort)](/Sorting/selection_sort.py)
 
+### 탐색(Searching)
+
+- [DFS](/Searching/DFS.py)
+- [BFS](/Searching/BFS.py)
+
 ### 그래프(Graph)
 
 - [벨만-포드 최단 거리(Belman-Ford_Shortest_path)](/Graph/Belman-Ford_shortest_path.py)
