@@ -15,6 +15,7 @@
 
 - [DFS](/Searching/DFS.py)
 - [BFS](/Searching/BFS.py)
+- 이진 탐색(Binary Search): [재귀 함수](/Searching/Binary_search_recursive_function.py) / [반복문](/Searching/Binary_search_repeated_statements.py)
 
 ### 그래프(Graph)
 
@@ -23,3 +24,7 @@
 ### 트리(Tree)
 
 - [바이너리 인덱스 트리(Binary Indexed Tree: BIT)](/Tree/Binary_indexed_tree.py)
+
+### 정수론(Number Theory)
+
+- [에라토스테네스의 체(Eratosthenes' sieve)](/Number_Theory/Prime_number.py)
