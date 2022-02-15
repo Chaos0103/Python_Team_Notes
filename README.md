@@ -35,3 +35,7 @@
 ### 정수론(Number Theory)
 
 - [에라토스테네스의 체(Eratosthenes' sieve)](/Number_Theory/Prime_number.py)
+
+### Etc
+
+- [2차원 리스트(행렬)를 90도 회전](/Etc/rotate_a_matrix_by_90_degree.py)
